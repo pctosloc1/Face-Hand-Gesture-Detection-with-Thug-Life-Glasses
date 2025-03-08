@@ -1,0 +1,3 @@
+opencv-python
+numpy
+import mediapipe as mp
